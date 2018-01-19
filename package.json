@@ -1,0 +1,29 @@
+{
+  "name": "mongodb-advanced",
+  "version": "1.0.0",
+  "description": "mongodb advanced",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacklovepdf/mongodb-advanced.git"
+  },
+  "keywords": [
+    "mongodb",
+    "express"
+  ],
+  "author": "jack.lin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jacklovepdf/mongodb-advanced/issues"
+  },
+  "homepage": "https://github.com/jacklovepdf/mongodb-advanced#readme",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "consolidate": "^0.15.0",
+    "express": "^4.16.2",
+    "mongodb": "^3.0.1"
+  }
+}
