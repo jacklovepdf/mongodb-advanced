@@ -10,7 +10,7 @@ mongodb-advanced
 
 1.express中模版的选择。
 
-    常见的服务器端模版引擎很多，有EJS,Jade,Handlerbars等，对于
+    常见的服务器端模版引擎很多，有EJS,Jade,Handlerbars等.
 
 <sup>[(back to table of contents)](#table-of-contents)</sup>
 
