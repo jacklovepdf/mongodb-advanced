@@ -1,0 +1,9 @@
+<form action="/favorite_fruit" method="GET">
+    <p>What is your favorite fruit?</p>
+    <ul class="post-form">
+        {{#each fruits}}
+            <input type="radio" name="fruit" value="{{this}}"/>{{this}}
+        {{/each}}
+    </ul>
+    <input type="submit" value="Submit"/>
+</form>

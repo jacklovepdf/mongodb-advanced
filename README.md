@@ -1,2 +1,0 @@
-# mongodb-advanced
-mongodb-advanced
